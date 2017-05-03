@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "NothingIsImpossibleIfOneDesires"
 author = "masashisalvador"
 copyright = "Masashisalvador All rights reserved."
+googleanalytics = "UA-98430595-1"
 
 [params]
   logo      = "/images/logo.jpg"
