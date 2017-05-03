@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://masashisalvador57f.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>http://masashisalvador57f.github.io/categories/</loc>
     <priority>0</priority>
   </url>
