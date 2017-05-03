@@ -1,0 +1,11 @@
+baseurl = "http://masashisalvador57f.github.io/"
+languageCode = "en-us"
+title = "NothingIsImpossibleIfOneDesires"
+author = "masashisalvador"
+copyright = "Masashisalvador All rights reserved."
+
+[params]
+  logo      = "/images/logo.jpg"
+  twitter   = "https://twitter.com/MasashiSalvador"
+  facebook  = "https://www.facebook.com/masashi.mitsuzawa"
+  github    = "https://github.com/MasashiSalvador57f"
